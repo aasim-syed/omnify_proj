@@ -1,6 +1,6 @@
 {
-    "homepage": "https://sebastianlabadie.github.io/weather-app/",
-    "name": "weather-app",
+    
+    "name": "omnify-project",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
