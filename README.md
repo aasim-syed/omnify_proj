@@ -13,7 +13,7 @@
 - #### **Creation of the DisplayWeather.js : 1 hr (debugging and stuff)**
 - #### **Creation of the Header : 30  mins (debugging and stuff)**
 - #### **Building to fetch API from endpoint using JS : 1 hrs (debugging and stuff)**
-- #### ``` const getWeatherData = async (latitude, longitude,city) => {
+``` const getWeatherData = async (latitude, longitude,city) => {
     try {
       const res = await axios.get(
         "http://api.weatherstack.com/current?access_key=e8d32583cba8ed6191c399efc7eb9c1a&query=" +
