@@ -31,7 +31,7 @@ const DisplayWeatherData = ({
       </div>
       <div className="row mt-5 mb-5">
         <div className="col-md-3 weather-info">
-          <h3 className="wind">Wind Speed </h3>
+          <h3 className="wind">Wind Speed💨 </h3>
           <h2>{wind_speed}</h2>
         </div>
         <div className="col-md-3 weather-info ">
@@ -43,7 +43,7 @@ const DisplayWeatherData = ({
           <h2>{precip}</h2>
         </div>
         <div className="col-md-3 weather-info ">
-          <h3 className="humidity">Humidity</h3>
+          <h3 className="humidity">Humidity🌡️</h3>
           <h2>{humidity}</h2>
         </div>
       </div>

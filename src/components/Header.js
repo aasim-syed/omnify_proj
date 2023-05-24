@@ -14,12 +14,12 @@ const handleKeyPress=(e)=>{
     return (
         <div className="row  d-flex justify-content-between" >
             <div className="col-md-8  mt-5">
-                <h1 className="text-white ">Weather App</h1>
+                <h1 className="text-white ">Weather App ⛈️🌤️</h1>
             </div>
             <div className="col-md-4 ">
                 <input type="text" 
                 className="form-control bg-transparent text-white  mt-5 mb-5"
-                placeholder="Write a city like (new york)" 
+                placeholder="Enter a city like (chennai ✨)" 
                 onKeyPress={handleKeyPress}
                 />
             </div>
