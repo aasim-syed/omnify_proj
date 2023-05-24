@@ -30,7 +30,9 @@
 ## Techstack used and deployed on Vercel and netlify: 
 
 - #### **React JS**
+- #### **CSS **
 - #### **weatherstack API**
+- #### **NodeJS**
 
 
 <br/>
